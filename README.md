@@ -1,2 +1,2 @@
 # QuizApp
-Quiz-App using Js
+Quiz-App pure Js without Using Js query.
